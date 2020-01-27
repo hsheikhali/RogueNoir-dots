@@ -231,5 +231,5 @@ set conceallevel=2 " conceals __bold__ to bold
 map <C-b> :NERDTreeToggle<CR>
 "
 " move among buffers with CTRL
-map <C-K> :bnext<CR>
-map <C-J> :bprev<CR>
+map <C-J> :bnext<CR>
+map <C-K> :bprev<CR>
